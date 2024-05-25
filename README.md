@@ -1,2 +1,4 @@
-# Gacha Life
-Color Presets in Gacha Life
+# Gacha Life Color Presets
+Over 126 Themes!
+Support Light/Dark
+
